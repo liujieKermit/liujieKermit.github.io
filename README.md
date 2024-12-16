@@ -10,7 +10,7 @@
 - 政治面貌：共青团员
 - 毕业院校	：南华大学
 - 学历：硕士
-- 电子简历地址：[http://liujieKermit.github.io.git/](http://liujieKermit.github.io.git/)
+- 电子简历地址：[http://liujieKermit.github.io/](http://liujieKermit.github.io/)
  
 ## 教育背景
 ### 全日制专业学位硕士（计算机技术）
