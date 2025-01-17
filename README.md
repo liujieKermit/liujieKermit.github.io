@@ -72,5 +72,5 @@
 - 持续学习和跟踪最新的计算机视觉技术研究成果
 
 ## 文章
-[YOLOV8导出onnx操作及指标评测](./yolov8_onnx_benchmark.md)
+[YOLOV8导出onnx操作及指标评测](./yolov8_onnx_benchmark.md)  
 [免费域名注册](./free_domain.md)
