@@ -72,11 +72,11 @@ Benchmarks complete for od_hold_hand_smoke_phone.pt on /data2/liujie/data/docker
 ```
 
 ## 结果汇总
-|模型|metrics/mAP50-95(B)|FPS|
-|-|-|-|
-|FP32(baseline)|0.8241|106.34|
-|FP16|0.8231|141.92|
-|INT8|0.8241|102.96|
+| 模型 | metrics/mAP50-95(B) | FPS |
+| ----------- | ----------- |
+| FP32(baseline) | 0.8241 | 106.34 |
+| FP16 | 0.8231 | 141.92 |
+| INT8 | 0.8241 | 102.96 |
 
 # 结论
 FP16稍微掉一点精度但是FPS更高，后续导出pytorch模型为onnx可以直接使用`benchmark(model="/data2/liujie/data/docker_data/yolo_project/od_hold/od_hold_hand_smoke_phone.pt", data="/data2/liujie/data/docker_data/yolo_project/od_hold/od_hold_v2_hand_smoke_phone/dataset.yaml", imgsz=800, half=True, int8=False, device=1)`
