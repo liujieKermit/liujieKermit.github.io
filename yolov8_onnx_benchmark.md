@@ -73,7 +73,7 @@ Benchmarks complete for od_hold_hand_smoke_phone.pt on /data2/liujie/data/docker
 
 ## 结果汇总
 | 模型 | metrics/mAP50-95(B) | FPS |
-| ----------- | ----------- |
+| ----------- | ----------- | ----------- |
 | FP32(baseline) | 0.8241 | 106.34 |
 | FP16 | 0.8231 | 141.92 |
 | INT8 | 0.8241 | 102.96 |
