@@ -9,3 +9,4 @@ https://www.freedidi.com/17434.html
 3、准备好一个Github账号，如果没有的话可以自行免费注册一个 https://github.com/
 
 4、最后托管在 [Cloudflare](https://www.cloudflare.com/) 域名管理平台就可以免费使用了，域名虽然是1年有效期，但是在到期前180天去免费续期下，就可以一直永久免费使用！
+ 
